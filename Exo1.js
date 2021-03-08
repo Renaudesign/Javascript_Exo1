@@ -1,5 +1,3 @@
 // @ts-check
-var bonjourVous = 'Hello You';
-function HelloYou (){
-    alert(bonjourVous);
-}
+let bonjourVous = 'Hello You'
+alert(bonjourVous)
